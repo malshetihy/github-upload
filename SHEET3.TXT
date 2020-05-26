@@ -1,0 +1,14 @@
+			SHEET 3
+			-------
+
+1. Write a program to calculate the value of a determinant. The dimension
+   of the determinant is given by the user and is 10 at most.
+
+   Hints: * Use a two-dimensional array to store the determinant's elemnts
+	  * Calculate the value using the Gaussian Elemination method (!!)
+
+2. Write a program to multiply two matrices and store their product in
+   a third matrix. Use two-dimensional array to store each matrix.
+
+3. Think about Lagrange method. Review the formula and try to write a program!
+

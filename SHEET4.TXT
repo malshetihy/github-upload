@@ -1,0 +1,26 @@
+				Sheet 4
+				=======
+
+1. Write a program that asks the user about his name. The name is
+   entered into an array of characters of size 21.
+   The program must check that the entered name does not exceed 20.
+   You HAVE TO check for EVERY character the user eneters, if the
+   number of characters becomes more than 20, the program must not
+   take any more characters.
+   Hint. Take the input CHARACTER BY CHARACTER
+   Then, print Hello, name
+
+2. Write a function that checks that a given string argument contains
+   only DIGITS. If the string contains only digits, return 1, otherwise,
+   return 0.
+
+3. Write a function that checks that a given string argument contains
+   only DIGITS and at most ONE DOT. If this condition in true return 1
+   otherwise return 0.
+   ---
+
+
+
+
+
+

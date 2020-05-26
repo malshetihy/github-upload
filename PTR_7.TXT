@@ -1,0 +1,19 @@
+		int table[3][2] = { { 1, 2},
+				    { 3, 4},
+				    { 5, 6} };
+
+		float fa[3] = {78.9, 56.0, -90.5};
+		float *fp;
+
+		fp = fa;
+		fa[i]  == *(fp+i);
+
+		table[1]  ------>>> *(*(table+2) + 1)
+
+		table+i	   --->>> address of row number i
+		*(table+i) --->>> address of first element in row number i
+		*(table+i)+j  >>> address of element number j of row number i
+		*(*(table+i)+j) = element number j of row number i = table[i][j]
+
+		&table[i][j] == (*(table+i) + j)
+		------------

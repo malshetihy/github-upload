@@ -1,0 +1,37 @@
+Sheet 1
+-------
+
+1. Write a program that prints the multiplication table of 5 in the
+   form:
+	5 * 1 = 5
+	5 * 2 = 10
+	.
+	.
+	.
+	5 * 12 = 60;
+
+2. Extend the above program to write the multiplication tables of
+   2, 4, 6, 8, 10, and 12.
+   Use as many loops as you want.
+
+3. Write a program that performs the following operations:
+   a) Ask the user to enter one integer number x
+   b) if x > 0 then it prints x*x
+   c) Ask the user if he wants another number. Get user reply by getch().
+   d) if the user answers 'y' or 'Y', repeat steps (a) to (c)
+   e) if the user replies anything else, go out.
+
+4. Modify the program of problem (3) such that the user reply to (c)
+   is restricted to 'Y' , 'y', 'n', or 'N'.
+   Therefore, the steps are:
+
+   a) Ask the user to enter one integer number x
+   b) if x > 0 then it prints x*x
+   c) Ask the user "Do you want another number?". Get user reply by getch().
+   d) if the user answers 'y' or 'Y', repeat steps (a) to (c)
+   e) if the user replies 'n' or 'N' go to step (g)
+   f) if the user replies anything else, go to step (c)
+   g) print "Good bye"
+
+	Hint. You may need to use a do-while loop to get the user reply.
+

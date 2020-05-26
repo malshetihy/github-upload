@@ -1,0 +1,7 @@
+				Sheet 2
+				-------
+
+1. Using Euler method, obtain y(x) for x = 0.1, 0.2, ..., 2.5 where
+   y' = 5*x+2 and y(0) = 1.
+   Hint: y(t+1) = y(t)+h*y'(t), h=.1
+
